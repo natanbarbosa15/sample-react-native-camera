@@ -21,7 +21,7 @@
     "@react-native-community/masked-view": "^0.1.10",
     "@react-navigation/native": "^5.4.3",
     "@react-navigation/stack": "^5.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-jest": "^26.0.1",
     "eslint": "^7.1.0",
     "jest": "^26.0.1",
